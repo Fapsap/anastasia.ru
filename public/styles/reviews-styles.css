@@ -1,0 +1,17 @@
+.body{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: -40px;
+}
+.body-container{
+    max-width: 1360px;
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+img{
+    margin-bottom: 30px;
+}
